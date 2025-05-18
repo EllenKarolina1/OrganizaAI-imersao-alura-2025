@@ -1,0 +1,16 @@
+[theme]
+
+# Um tom de roxo vibrante para botões, seletores e elementos interativos
+primaryColor = "#0197F6"
+
+# Fundo principal escuro para destacar os elementos
+backgroundColor = "#0A080A"
+
+# Um roxo médio para caixas, blocos e destaques secundários
+secondaryBackgroundColor = "#2C1142"
+
+# Texto claro para boa legibilidade sobre o fundo escuro
+textColor = "#E9F0FF"
+
+# Fonte sem serifa, moderna e clean
+font = "sans serif"
